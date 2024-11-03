@@ -1,1 +1,1 @@
-A classic Snake game implemented in Python using the turtle module. This simple game provides a nostalgic experience and helps demonstrate basic game development concepts in Python.
+A classic Snake game implemented in Python using the turtle module. This simple game provides a nostalgic experience and helps demonstrate basic game development concepts in Python. The game includes high score tracking that reads and updates a (.txt) file, adding a persistent competitive element.
